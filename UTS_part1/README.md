@@ -9,7 +9,7 @@ Algoritma ini mencari nilai terkecil dalam deret dan menukarnya ke posisi depan.
 
 ## Source code lengkap
 
-![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSBubbleSort/SelectionSort_code)
+![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSBubbleSort/BubbleSort.NetBeans%20Java)
 
 ## Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/Screenshot%20(494).png)
