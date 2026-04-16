@@ -6,5 +6,9 @@ Tugas ini berisi simulasi algoritma **Selection Sort**, **Bubble Sort**, dan **I
 
 ## 1. Selection Sort
 Algoritma ini mencari nilai terkecil dalam deret dan menukarnya ke posisi depan.
+# Source code lengkap
+Berikut program menggunakan java NetBeans:
+</p>
 
-UTS_part1/UTSBubbleSort/SelectionSort_code
+
+![code full]
