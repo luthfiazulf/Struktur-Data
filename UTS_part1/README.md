@@ -1,6 +1,6 @@
 # UTS Struktur Data - Part 1
 
-Tugas ini berisi coding algoritma Selection Sort, Bubble Sort, dan **Insertion Sort** menggunakan bahasa Java dengan data inventaris barang sebanyak 10 data.
+Tugas ini berisi coding algoritma **Selection Sort**, **Bubble Sort**, dan **Insertion Sort** menggunakan bahasa Java dengan data inventaris barang sebanyak 10 data.
 
 ---
 
