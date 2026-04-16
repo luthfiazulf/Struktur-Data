@@ -12,7 +12,7 @@ Algoritma ini mencari nilai terkecil dalam deret dan menukarnya ke posisi depan.
 ![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSBubbleSort/SelectionSort_code)
 
 ## Output Program
-
+![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/Screenshot%20(494).png)
 
 ## 2. Bubble Sort
 Membandingkan dua data bersebelahan dan menukarnya jika urutannya salah.
