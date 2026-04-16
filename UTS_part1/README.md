@@ -12,7 +12,7 @@ Algoritma ini mencari nilai terkecil dalam deret dan menukarnya ke posisi depan.
 
 # Source code lengkap
 
-![code full](
+![code full](http://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/InsertionSort_code)
 
 # Source code lengkap
 
