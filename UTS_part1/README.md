@@ -1,6 +1,6 @@
 # UTS Struktur Data - Part 1
 
-Tugas ini berisi simulasi algoritma **Selection Sort**, **Bubble Sort**, dan **Insertion Sort** menggunakan bahasa Java dengan data inventaris barang sebanyak 10 data.
+Tugas ini berisi coding algoritma Selection Sort, Bubble Sort, dan **Insertion Sort** menggunakan bahasa Java dengan data inventaris barang sebanyak 10 data.
 
 ---
 
@@ -29,7 +29,7 @@ Menyisipkan data ke posisi yang tepat seperti menyusun kartu.
 
 ## Source code lengkap
 
-![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/SelectionSort_code)
+![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/InsertionSort.NetBeans%20Java)
 
 ## Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/Screenshot%20(496).png)
