@@ -10,4 +10,5 @@ satu elemen dengan nilai minimum dari sisa data yang ada sebelum melakukan pemin
 
 ## 2. UTS PART 1
 UTS ini berupa project membuat sorting dengan teknik selection sort, bubble sort, insertion sort.
+
 ![UTS PART 1](https://github.com/luthfiazulf/Struktur-Data/tree/main/UTS_part1)
