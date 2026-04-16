@@ -32,4 +32,4 @@ Menyisipkan data ke posisi yang tepat seperti menyusun kartu.
 ![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/SelectionSort_code)
 
 ## Output Program
-![RUN] (https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/Screenshot%20(494).png)
+![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/Screenshot%20(496).png)
