@@ -13,3 +13,5 @@ Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga 
 ## Output Program
 
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part2/Screenshot%20(551).png)
+
+---
