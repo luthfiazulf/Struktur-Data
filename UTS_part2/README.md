@@ -17,6 +17,6 @@ Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga 
 ---
 
 ## c. 
-<img src="WhatsApp%20Image%202026-04-23%20at%2012.26.17.jpeg" width="400" height="700" alt="Luthfia Zulfa Fadhila">
+<img src="UTS_part2/WhatsApp Image 2026-04-23 at 12.26.17.jpeg" width="400" height="700" alt="Luthfia Zulfa Fadhila">
 
 ---
