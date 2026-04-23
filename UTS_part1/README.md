@@ -14,8 +14,11 @@ Algoritma ini mencari nilai terkecil dalam deret dan menukarnya ke posisi depan.
 ## Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/Screenshot%20(494).png)
 
+---
+
 # 2. Bubble Sort
 Membandingkan dua data bersebelahan dan menukarnya jika urutannya salah.
+
 
 ## Source code lengkap
 
@@ -23,6 +26,8 @@ Membandingkan dua data bersebelahan dan menukarnya jika urutannya salah.
 
 ## Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSBubbleSort/Screenshot%20(495).png)
+
+---
 
 # 3. Insertion Sort
 Menyisipkan data ke posisi yang tepat seperti menyusun kartu.
@@ -33,3 +38,6 @@ Menyisipkan data ke posisi yang tepat seperti menyusun kartu.
 
 ## Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/Screenshot%20(496).png)
+
+---
+
