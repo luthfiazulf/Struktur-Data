@@ -15,7 +15,9 @@ Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga 
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part2/Screenshot%20(551).png)
 
 ---
-<img src="WhatsApp%20Image%202026-04-23%20at%2012.26.17.jpeg" width="300" height="200" alt="Luthfia Zulfa Fadhila">
+
+## c. 
+<img src="WhatsApp%20Image%202026-04-23%20at%2012.26.17.jpeg" width="300" height="600" alt="Luthfia Zulfa Fadhila">
 
 
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part2/WhatsApp%20Image%202026-04-23%20at%2012.26.17.jpeg)
