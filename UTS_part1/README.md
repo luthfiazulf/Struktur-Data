@@ -26,6 +26,7 @@ Membandingkan dua data bersebelahan dan menukarnya jika urutannya salah.
 
 ![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSBubbleSort/BubbleSort.NetBeans%20Java)
 
+
 ## b. Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSBubbleSort/Screenshot%20(495).png)
 
@@ -34,9 +35,11 @@ Membandingkan dua data bersebelahan dan menukarnya jika urutannya salah.
 # 3. Insertion Sort
 Menyisipkan data ke posisi yang tepat seperti menyusun kartu.
 
+
 ## a. Source code lengkap
 
 ![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/InsertionSort.NetBeans%20Java)
+
 
 ## b. Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/Screenshot%20(496).png)
