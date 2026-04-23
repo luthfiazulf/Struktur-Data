@@ -19,7 +19,9 @@ Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga 
 ## c. Identitas Pembuat
 
 Nama  : Luthfia Zulfa Fadhila.
+
 NPM   : 25161562028.
+
 Kelas : 2A.
 
 
