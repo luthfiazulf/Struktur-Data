@@ -4,13 +4,13 @@ Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga 
 
 ---
 
-## Source code lengkap
+## a. Source code lengkap
 
 ![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part2/Fibonacci.NetBeans%20Java)
 
 ---
 
-## Output Program
+## b. Output Program
 
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part2/Screenshot%20(551).png)
 
