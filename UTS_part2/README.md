@@ -16,7 +16,13 @@ Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga 
 
 ---
 
-## c. 
+## c. Identitas Pembuat
+
+Nama  : Luthfia Zulfa Fadhila.
+NPM   : 25161562028.
+Kelas : 2A.
+
+
 <img src="WhatsApp%20Image%202026-04-23%20at%2012.26.17.jpeg" width="400" height="700" alt="Luthfia Zulfa Fadhila">
 
 ---
