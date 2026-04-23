@@ -7,11 +7,13 @@ Tugas ini berisi coding algoritma **Selection Sort**, **Bubble Sort**, dan **Ins
 # 1. Selection Sort
 Algoritma ini mencari nilai terkecil dalam deret dan menukarnya ke posisi depan.
 
-## Source code lengkap
+
+## a. Source code lengkap
 
 ![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/SelectionSort.NetBeans%20Java)
 
-## Output Program
+
+## b. Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/Screenshot%20(494).png)
 
 ---
@@ -20,11 +22,11 @@ Algoritma ini mencari nilai terkecil dalam deret dan menukarnya ke posisi depan.
 Membandingkan dua data bersebelahan dan menukarnya jika urutannya salah.
 
 
-## Source code lengkap
+## a. Source code lengkap
 
 ![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSBubbleSort/BubbleSort.NetBeans%20Java)
 
-## Output Program
+## b. Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSBubbleSort/Screenshot%20(495).png)
 
 ---
@@ -32,11 +34,11 @@ Membandingkan dua data bersebelahan dan menukarnya jika urutannya salah.
 # 3. Insertion Sort
 Menyisipkan data ke posisi yang tepat seperti menyusun kartu.
 
-## Source code lengkap
+## a. Source code lengkap
 
 ![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/InsertionSort.NetBeans%20Java)
 
-## Output Program
+## b. Output Program
 ![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSInsertionSort/Screenshot%20(496).png)
 
 ---
