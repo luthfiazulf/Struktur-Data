@@ -1,4 +1,4 @@
-Nama  : Luhfia Zulfa Fadhila.
+Nama  : Luthfia Zulfa Fadhila.
 
 NPM   : 25161562028.
 
