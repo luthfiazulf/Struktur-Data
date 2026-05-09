@@ -5,7 +5,7 @@ Stack (tumpukan) adalah struktur data linear yang mengikuti prinsip LIFO (Last I
 
 ## a. Source code lengkap
 
-![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/SelectionSort.NetBeans%20Java)
+![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/Tugas%202/Stack.NetBeans%20Java)
 
 
 ## b. Output Program
