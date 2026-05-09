@@ -12,7 +12,7 @@ Stack (tumpukan) adalah struktur data linear yang mengikuti prinsip LIFO (Last I
 
 ## a. Source code lengkap
 
-![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/Tugas%202/Stack.NetBeans%20Java)
+![code full](https://github.com/luthfiazulf/Struktur-Data/blob/main/Tugas%202/25161562028_LuthfiaZulfaFadhila_Stack.java)
 
 
 ## b. Output Program
