@@ -9,4 +9,4 @@ Stack (tumpukan) adalah struktur data linear yang mengikuti prinsip LIFO (Last I
 
 
 ## b. Output Program
-![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/UTS_part1/UTSSelectionSort/Screenshot%20(494).png)
+![RUN](https://github.com/luthfiazulf/Struktur-Data/blob/main/Tugas%202/Screenshot%20(574).png)
