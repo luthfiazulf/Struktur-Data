@@ -24,12 +24,11 @@ Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga 
 
 ![UTS PART 2](https://github.com/luthfiazulf/Struktur-Data/tree/main/UTS_part2)
 
-```
-```
+---
 
 ## 4. TUGAS 2
 Tugas ini berisi tentang Stack (tumpukan).
 
 ![Tugas 2](https://github.com/luthfiazulf/Struktur-Data/tree/main/Tugas%202)
 
-```
+---
