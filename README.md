@@ -25,12 +25,11 @@ Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga 
 ![UTS PART 2](https://github.com/luthfiazulf/Struktur-Data/tree/main/UTS_part2)
 
 ```
+```
 
 ## 4. TUGAS 2
-Tugas ini berisi Stack (tumpukan) adalah struktur data linear yang mengikuti prinsip LIFO (Last In, First Out),
+Tugas ini berisi tentang Stack (tumpukan).
 
-di mana elemen terakhir yang dimasukkan adalah yang pertama kali dikeluarkan. Data hanya bisa ditambah (push)
+![Tugas 2](https://github.com/luthfiazulf/Struktur-Data/tree/main/Tugas%202)
 
-atau dihapus (pop) dari satu ujung yang disebut Top (puncak).
-
-![UTS PART 2](https://github.com/luthfiazulf/Struktur-Data/tree/main/UTS_part2)
+```
