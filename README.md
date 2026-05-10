@@ -19,6 +19,9 @@ UTS ini berupa project membuat sorting dengan teknik selection sort, bubble sort
 
 ---
 
+## 4. TUGAS 2
+![Tugas 2](https://github.com/luthfiazulf/Struktur-Data/tree/main/Tugas%202)
+
 ## 2. UTS PART 2
 Tugas ini berisi sebuah program Java yang dapat mencetak deret Fibonacci hingga suku ke-n menggunakan pendekatan rekursif.
 
